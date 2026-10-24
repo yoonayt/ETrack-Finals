@@ -1,0 +1,7 @@
+# Keep the real database configuration private
+/config/database.php
+
+# Keep local environment files private
+.env
+.env.*
+!.env.example
